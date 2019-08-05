@@ -1,0 +1,31 @@
+{
+  "name": "radio-app",
+  "version": "0.1.0",
+  "description": "A simple internet radio player.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawkw/radio-app.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Peter Weston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawkw/radio-app/issues"
+  },
+  "homepage": "https://github.com/pawkw/radio-app#readme",
+  "dependencies": {
+    "electron": "^5.0.4",
+    "jquery": "^3.4.1",
+    "lautfm": "^1.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-google": "^0.13.0"
+  }
+}
