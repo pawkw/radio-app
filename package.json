@@ -21,7 +21,7 @@
   "homepage": "https://github.com/pawkw/radio-app#readme",
   "dependencies": {
     "electron": "^5.0.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lautfm": "^1.0.3"
   },
   "devDependencies": {
